@@ -1,0 +1,42 @@
+#heading
+{
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+p 
+{
+    font-family: 'Zilla Slab', serif;
+    font-size: 25px;
+}
+
+#best_extensions
+{
+    font-size: 25px;
+    font-family:'Balsamiq Sans', cursive;
+}
+
+#subheading 
+{
+    font-family: 'Zilla Slab', serif;
+}
+
+#ytvid
+
+{
+    border: 8px solid black;
+    padding: 5px;
+}
+
+#ytvid2
+
+{
+    border: 8px solid black;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+#doc1 
+{
+    border: 8px solid black;
+    padding: 5px;
+}
